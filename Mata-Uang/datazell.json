@@ -2,7 +2,7 @@
   "copyright": "© 2025 ZellAPI - All rights reserved",
   "author": "Bhuzel Rayhan",
   "version": "1.0.0",
-  "license": "Proprietary",
+  "license": "ZellAPI",
   "commonI18nResources": {
     "currencies": {
       "USD": {
