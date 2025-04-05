@@ -1,3 +1,4 @@
+// ambil name nya untuk parameter name, misal "Atlas"
 const voices = {
   male: [
     { name: "Bradley Marshall"},
@@ -19,6 +20,7 @@ const voices = {
   ]
 };
 
+// ambil yang lengkap untuk parameter language, misal "id-ID"
 const languages = [
   "ml-IN", 
   "en-US", 
